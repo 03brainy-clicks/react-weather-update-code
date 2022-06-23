@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap");
+body {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.red {
+  border: solid red 1px;
+}
+
+.search {
+  background: #1e213a;
+  background-image: url("./assets//Cloud-background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: calc(150%);
+  color: white;
+}
+
+.search input {
+  padding: 4px 10px;
+  outline: none;
+  border: #100e1d solid 2px;
+  width: 100%;
+  border-radius: 0px;
+}
+
+.search button {
+  background-color: #100e1d !important;
+  border: none;
+  color: white;
+  border-radius: 0px;
+}
+
+.search button:hover {
+  background-color: white !important;
+  border: none;
+  color: #100e1d;
+  border-radius: 0px;
+}
+
+.search h1 {
+  font-size: 70px;
+}
+
+.details {
+  background: #100e1d;
+}
+
+.details .day-card {
+  background-color: #1e213a;
+}
+
+.details .highlights .highlight-card {
+  background-color: #1e213a;
+}
+
+.details .highlights .highlight-card .head {
+  font-weight: 700;
+  font-size: 64px;
+}
+
+.details .highlights .highlight-card progress {
+  border: none;
+  width: 230px;
+  height: 5px;
+}
+
+.details .highlights .highlight-card progress::-moz-progress-bar {
+  background: #100e1d;
+}
+
+@media only screen and (min-width: 1600px) {
+  .search {
+    height: 100vh;
+    padding-top: 30vh;
+  }
+  .details {
+    height: 100vh;
+    padding: 100px 0px 0px 0px;
+  }
+}

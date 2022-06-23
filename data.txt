@@ -1,0 +1,55 @@
+<div className="col-lg-2 col-md-5 p-3 my-3 my-lg-0 day-card text-center">
+                  <p>Tommorow</p>
+                  <img
+                    src="./weather-app-master/LightCloud.png"
+                    width="75px"
+                    alt=""
+                  />
+                  <br />
+                  <br />
+                  <p>16 Degree</p>
+                </div>
+                <div className="col-lg-2 col-md-5 p-3 my-3 my-lg-0 day-card text-center">
+                  <p>Tommorow</p>
+                  <img
+                    src="./weather-app-master/LightCloud.png"
+                    width="75px"
+                    alt=""
+                  />
+                  <br />
+                  <br />
+                  <p>16 Degree</p>
+                </div>
+                <div className="col-lg-2 col-md-5 p-3 my-3 my-lg-0 day-card text-center">
+                  <p>Tommorow</p>
+                  <img
+                    src="./weather-app-master/LightCloud.png"
+                    width="75px"
+                    alt=""
+                  />
+                  <br />
+                  <br />
+                  <p>16 Degree</p>
+                </div>
+                <div className="col-lg-2 col-md-5 p-3 my-3 my-lg-0 day-card text-center">
+                  <p>Tommorow</p>
+                  <img
+                    src="./weather-app-master/LightCloud.png"
+                    width="75px"
+                    alt=""
+                  />
+                  <br />
+                  <br />
+                  <p>16 Degree</p>
+                </div>
+                <div className="col-lg-2 col-md-5 p-3 my-3 my-lg-0 day-card text-center">
+                  <p>Tommorow</p>
+                  <img
+                    src="./weather-app-master/LightCloud.png"
+                    width="75px"
+                    alt=""
+                  />
+                  <br />
+                  <br />
+                  <p>16 Degree</p>
+                </div>
